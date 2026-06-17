@@ -1,0 +1,10 @@
+{
+  "name": "deploy-tree",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix deploytree",
+    "build": "npm run build --prefix deploytree",
+    "lint": "npm run lint --prefix deploytree",
+    "preview": "npm run preview --prefix deploytree"
+  }
+}
