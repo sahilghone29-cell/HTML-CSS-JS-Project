@@ -1,0 +1,21 @@
+{
+  "name": "assignment9_nodejs_update_delete_users",
+  "version": "1.0.0",
+  "description": "Express MongoDB User API - Update and Delete Users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "nodejs"
+  ],
+  "author": "Sahil Ghone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
